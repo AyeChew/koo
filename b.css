@@ -111,12 +111,12 @@ and (max-width: 767px){
 }@media only screen and (min-width: 360px) 
 and (max-width: 767px) {
 	.pp{
-		position: absolute;top:196%
+		position: absolute;top:190%
 	}
 }@media only screen and (min-width: 360px) 
 and (max-width: 767px){
 	.bg{
-		position: absolute;top:220%
+		position: absolute;top:218%
 	}
 }.bg{
 	border: 1px solid blue;
@@ -124,7 +124,7 @@ and (max-width: 767px){
 }@media only screen and (min-width: 360px) 
 and (max-width: 767px){
 	.hg{
-		position: absolute;top: 217%;
+		position: absolute;top: 215%;
 		font-size: 25px
 	}
 }@media only screen and (min-width: 360px) 
@@ -146,20 +146,20 @@ and (max-width: 767px){
 and (max-width: 767px){
 	.pe{
 		position: absolute;
-		top: 233%
+		top: 227%
 	}
 }@media only screen and (min-width: 360px) 
 and (max-width: 767px){
 	.ag{
 		position: absolute;
-		top: 263%;
+		top: 258%;
 		font-size: 25px
 	}
 }@media only screen and (min-width: 360px) 
 and (max-width: 767px){
 	.pd{
 		position: absolute;
-		top: 284%
+		top: 278%
 	}
 }@media only screen and (min-width: 360px) 
 and (max-width: 767px){
@@ -559,6 +559,7 @@ input[type=submit]:hover {
   float: left;
   width: 75%;
   margin-top: 6px;
+  color: black
 }
 
 /* Clear floats after the columns */
